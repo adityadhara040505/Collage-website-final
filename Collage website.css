@@ -1,0 +1,89 @@
+.division1{
+	background-color : darkblue;
+	color : yellow;
+	text-align : center;
+}
+.division2{
+	background-color : yellow;
+	color : green; : 
+}
+.division3{
+	background-color : white;
+	color : brown;
+	
+}
+.division4{
+	background-color : pink;
+	color : red;
+}
+.img1{
+	height : 400;
+}
+ol
+{
+	list-style-type:none;
+}
+li
+{
+	float:left;
+	padding : 15px;
+	font-size : 20px;
+}
+.li1{
+	float: left;
+	padding: 15px;
+	font-size: 20px;
+}
+blink{
+	color : green;
+	transition : 0.5s;
+	column-width : bold;
+}
+.background_of_home{
+	background-image : url("http://gpsolapur.ac.in/wp-content/uploads/2019/12/Main-Building.jpg");
+	background-repeat : no-repeat;
+}
+.definitionlist{
+	float:left;
+	padding : 15px;
+	font-size : 20px;
+}
+a:link, a:visited {
+	background-color: #f44336;
+	color: white;
+	padding: 14px 25px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+  }
+  
+  a:hover, a:active {
+	background-color: red;
+  }background-color: grey;
+}
+.a1:link, .a1:visited {
+	background-color: white;
+	color: white;
+	padding: 14px 25px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+  }
+  
+.a1:hover, .a1:active {
+	background-color: white;
+  }
+}
+.nav{
+	background-color: yellow; 
+	list-style-type: none;
+	text-align: center;
+	margin: 0;
+	padding: 0;
+  }
+  
+.nav li {
+	display: inline-block;
+	font-size: 20px;
+	padding: 20px;
+  }
